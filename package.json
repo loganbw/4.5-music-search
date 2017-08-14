@@ -64,6 +64,9 @@
       "strictify"
     ]
   },
+
+
+
   "browserify-shim": {
     "jQuery": "$",
     "underscore": "_"
